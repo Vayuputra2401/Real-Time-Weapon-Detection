@@ -1,0 +1,17 @@
+item { 
+	name:'bluntweapon'
+	id:1
+}
+item { 
+	name:'knife'
+	id:2
+}
+item { 
+	name:'gun'
+	id:3
+}
+item { 
+	name:'glass'
+	id:4
+}
+
